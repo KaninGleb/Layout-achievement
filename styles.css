@@ -107,3 +107,12 @@ footer img {
     color: #ffffff;
     text-decoration: none;
 }
+
+.links-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.links-list li {
+    padding: 9px 15px;
+}
