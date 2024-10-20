@@ -13,7 +13,6 @@ ul {
 }
 
 header {
-    width: 1921px;
     height: 80px;
     background-color: #6c63ff;
     display: flex;
@@ -90,7 +89,6 @@ h1 {
 }
 
 footer {
-    width: 1920px;
     height: 80px;
     background-color: #6c63ff;
 }
