@@ -36,8 +36,16 @@ header {
 }
 
 h1 {
-font-weight: 700;
-font-size: 44px;
-text-transform: uppercase;
-color: #2f2e41;
+    font-weight: 700;
+    font-size: 44px;
+    text-transform: uppercase;
+    color: #2f2e41;
+}
+
+.card {
+    border: 2px solid #e7e7e7;
+    border-radius: 5px;
+    width: 370px;
+    height: 552px;
+    background-color: #ffffff;
 }
