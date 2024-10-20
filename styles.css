@@ -75,7 +75,7 @@ h1 {
     width: 330px;
     height: 552px;
     background-color: #ffffff;
-    padding : 46px 20px;
+    padding: 46px 20px;
     flex-grow: 1;
 }
 
@@ -118,7 +118,7 @@ footer img {
     font-weight: 400;
     font-size: 16px;
     letter-spacing: -0.02em;
-    text-transform: capitalize; 
+    text-transform: capitalize;
     color: #ffffff;
     text-decoration: none;
 }
@@ -143,5 +143,16 @@ footer img {
     h1 {
         font-size: 36px;
         margin-bottom: 46px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .main-section {
+        padding-top: 44px;
+    }
+
+    h1 {
+        font-size: 28px;
+        margin-bottom: 36px;
     }
 }
