@@ -63,15 +63,18 @@ h1 {
 .card-wrapper {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 15px;
 }
 
 .card {
     border: 2px solid #e7e7e7;
     border-radius: 5px;
-    width: 370px;
+    width: 330px;
     height: 552px;
     background-color: #ffffff;
     padding : 46px 20px;
+    flex-grow: 1;
 }
 
 .card-title {
