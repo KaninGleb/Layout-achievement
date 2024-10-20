@@ -16,12 +16,9 @@ header {
     width: 1921px;
     height: 80px;
     background-color: #6c63ff;
-
-    /* display: flex;
+    display: flex;
     justify-content: space-between;
-
-    height: 80px;
-    padding: 17px; */
+    align-items: center;
 }
 
 .login-btn {
