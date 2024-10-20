@@ -49,3 +49,12 @@ h1 {
     height: 552px;
     background-color: #ffffff;
 }
+
+.card-title {
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #2f2e41;
+}
