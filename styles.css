@@ -76,6 +76,7 @@ h1 {
     height: 552px;
     background-color: #ffffff;
     padding: 46px 20px;
+    text-align: center;
     flex-grow: 1;
 }
 
