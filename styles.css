@@ -92,6 +92,10 @@ footer {
     background-color: #6c63ff;
 }
 
+footer img {
+    margin-right: 10px;
+}
+
 .footer-link {
     font-weight: 400;
     font-size: 16px;
