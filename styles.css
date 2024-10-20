@@ -69,12 +69,17 @@ h1 {
     color: #2f2e41;
 }
 
+.card-img {
+    margin: 40px auto 36px;
+}
+
 .card-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.375;
     letter-spacing: -0.02em;
     color: #2f2e41;
+    text-align: left;
 }
 
 .card-text span {
