@@ -74,3 +74,9 @@ h1 {
 .card-text span {
     font-weight: 700;
 }
+
+footer {
+    width: 1920px;
+    height: 80px;
+    background-color: #6c63ff;
+}
