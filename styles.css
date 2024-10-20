@@ -66,3 +66,7 @@ h1 {
     letter-spacing: -0.02em;
     color: #2f2e41;
 }
+
+.card-text span {
+    font-weight: 700;
+}
