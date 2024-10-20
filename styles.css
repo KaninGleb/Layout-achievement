@@ -80,3 +80,11 @@ footer {
     height: 80px;
     background-color: #6c63ff;
 }
+
+.footer-link {
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.02em;
+    text-transform: capitalize; 
+    color: #ffffff;
+}
