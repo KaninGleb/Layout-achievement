@@ -8,6 +8,10 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+ul {
+    list-style: none;
+}
+
 header {
     width: 1921px;
     height: 80px;
