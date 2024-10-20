@@ -6,6 +6,7 @@
 
 body {
     font-family: "Roboto", sans-serif;
+    min-width: 360px;
 }
 
 ul {
@@ -25,11 +26,12 @@ header {
 }
 
 .container {
-    max-width: 1140px;
+    max-width: 1170px;
     width: 100%;
     margin: 0 auto;
     border: 1px solid red;
     height: 100%;
+    padding: 15px;
 }
 
 .login-btn {
@@ -131,4 +133,15 @@ footer img {
 
 .links-list li {
     padding: 9px 15px;
+}
+
+@media screen and (max-width: 768px) {
+    .main-section {
+        padding: 46px 0 50px;
+    }
+
+    h1 {
+        font-size: 36px;
+        margin-bottom: 46px;
+    }
 }
