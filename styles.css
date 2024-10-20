@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: "Roboto", sans-serif;
+}
+
 header {
     width: 1921px;
     height: 80px;
@@ -29,4 +33,11 @@ header {
     text-transform: uppercase;
     text-align: center;
     color: #fff;
+}
+
+h1 {
+font-weight: 700;
+font-size: 44px;
+text-transform: uppercase;
+color: #2f2e41;
 }
